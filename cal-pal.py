@@ -6,6 +6,6 @@ i=""
 num=input ("enter the price before VAT: ")
 numvat = num + (num*0.05)
 print ("Total price with VAT is : " + str(numvat))
-print ("desgined bu jab-public")
+print ("desgined by jab-public")
 
-
+print ("updated by Jaber developer")
